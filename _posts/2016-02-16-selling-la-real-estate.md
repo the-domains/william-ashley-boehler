@@ -2,12 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: 'From Hollywood to Inglewood, William Ashley Boehler will guide you home'
-datePublished: '2016-02-16T15:47:49.600Z'
-dateModified: '2016-02-16T15:43:10.691Z'
+description: Connect with us on Facebook
+datePublished: '2016-02-16T15:52:10.224Z'
+dateModified: '2016-02-16T15:51:54.777Z'
 title: Selling LA Real Estate
 author: []
 authors: []
@@ -21,4 +22,4 @@ published: true
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/44a315fc-8e0f-4f0c-ae74-cb7e4bc055aa.jpg)
+https://www.facebook.com/SellingLARealestate/
