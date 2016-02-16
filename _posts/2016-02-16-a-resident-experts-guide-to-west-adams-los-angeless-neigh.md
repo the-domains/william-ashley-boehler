@@ -1,7 +1,8 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'http://la.curbed.com/archives/2016/01/los_angeles_west_adams_neighborhood_guide.php'
 inLanguage: en
 starred: false
 keywords:
@@ -16,8 +17,8 @@ keywords:
   - jefferson
   - hidden
 description: "Image via The People's Guide takes a page from Curbed SF and offers tours of LA's neighborhoods, led by loyal readers, favorite bloggers, and other luminaries of our choosing. We kick off Curbed LA's inaugural episode by welcoming a resident of the Curbed Cup's 2015 Neighborhood of the Year, West Adams-communications director (and former president) of the West Adams Heritage Association John Patterson."
-datePublished: '2016-02-16T16:43:09.130Z'
-dateModified: '2016-02-16T16:43:06.829Z'
+datePublished: '2016-02-16T16:57:16.679Z'
+dateModified: '2016-02-16T16:57:13.706Z'
 author: []
 related: []
 app_links: []
@@ -30,7 +31,6 @@ publisher:
   domain: la.curbed.com
   url: 'http://la.curbed.com'
   favicon: 'http://la.curbed.com//favicon.ico'
-url: a-resident-experts-guide-to-west-adams-los-angeless-neigh/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
