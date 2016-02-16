@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://la.curbed.com/archives/2016/01/los_angeles_west_adams_neighborhood_of_the_year_curbed_cup.php'
 inLanguage: en
 starred: false
 keywords:
@@ -17,20 +16,21 @@ keywords:
   - classiest
   - well-coordinated
 description: "Image via Michael The votes have been tallied, the accusations of cheating have been hurled on both sides, and the winner of the 2015 Curbed Cup for Los Angeles's Neighborhood of the Year is West Adams!! (The prize is a golden jpeg, glory, and the right to mention this in real estate listings for the rest of time.)"
-datePublished: '2016-02-16T16:27:20.205Z'
-dateModified: '2016-02-16T16:10:40.761Z'
+datePublished: '2016-02-16T16:41:26.302Z'
+dateModified: '2016-02-16T16:41:23.247Z'
 author: []
 related: []
 app_links: []
 title: 'The Curbed Cup Neighborhood of the Year is West Adams!'
+sourcePath: _posts/2016-02-16-the-curbed-cup-neighborhood-of-the-year-is-west-adams.md
+published: true
 authors: []
 publisher:
   name: Curbed LA
   domain: la.curbed.com
   url: 'http://la.curbed.com'
   favicon: 'http://la.curbed.com//favicon.ico'
-sourcePath: _posts/2016-02-16-the-curbed-cup-neighborhood-of-the-year-is-west-adams.md
-published: true
+url: the-curbed-cup-neighborhood-of-the-year-is-west-adams/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
