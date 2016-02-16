@@ -16,8 +16,8 @@ keywords:
   - jefferson
   - hidden
 description: "Image via The People's Guide takes a page from Curbed SF and offers tours of LA's neighborhoods, led by loyal readers, favorite bloggers, and other luminaries of our choosing. We kick off Curbed LA's inaugural episode by welcoming a resident of the Curbed Cup's 2015 Neighborhood of the Year, West Adams-communications director (and former president) of the West Adams Heritage Association John Patterson."
-datePublished: '2016-02-16T16:41:04.354Z'
-dateModified: '2016-02-16T16:41:00.644Z'
+datePublished: '2016-02-16T16:43:09.130Z'
+dateModified: '2016-02-16T16:43:06.829Z'
 author: []
 related: []
 app_links: []
@@ -37,4 +37,4 @@ _type: MediaObject
 ---
 CurbedLA's guide to West Adams 
 
-<article style=""><h1>A Resident Expert's Guide to West Adams&amp;comma; Los Angeles's Neighborhood of the Year</h1><p>Image via The People's Guide takes a page from Curbed SF and offers tours of LA's neighborhoods&amp;comma; led by loyal readers&amp;comma; favorite bloggers&amp;comma; and other luminaries of our choosing&amp;period; We kick off Curbed LA's inaugural episode by welcoming a resident of the Curbed Cup's 2015 Neighborhood of the Year&amp;comma; West Adams-communications director &amp;lpar;and former president&amp;rpar; of the West Adams Heritage Association John Patterson&amp;period;</p><img src="http://cdn.cstatic.net/gridnailer/660x/http://cdn.cstatic.net/images/gridfs/56949735f92ea14bd6012ad2/4748487307_13aca88ff2_b.jpg" /></article>
+<article style=""><h1>A Resident Expert's Guide to West Adams, Los Angeles's Neighborhood of the Year</h1><p>The People's Guide takes a page from Curbed SF and offers tours of LA's neighborhoods, led by loyal readers, favorite bloggers, and other luminaries of our choosing. We kick off Curbed LA's inaugural episode by welcoming a resident of the Curbed Cup's 2015 Neighborhood of the Year, West Adams-communications director (and former president) of the West Adams Heritage Association John Patterson.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e7d653cd74b501beccc1923920166e36a6011e93.jpg" /></article>
