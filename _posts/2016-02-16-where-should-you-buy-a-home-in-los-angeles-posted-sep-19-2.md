@@ -1,24 +1,24 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://www.sellinglarealestate.com/2015/09/19/where-should-you-buy-a-home-in-los-angeles/'
 inLanguage: null
 starred: false
 keywords: []
-description: 'WHERE SHOULD YOU BUY A HOME IN LOS ANGELES? Posted Sep 19, 2015 This article is for one of my favorite clients….first time home buyers or people relocating to L'
-datePublished: '2016-02-16T15:29:35.602Z'
-dateModified: '2016-02-16T15:28:58.639Z'
+description: 'An article for first time home buyers navigating the Los Angeles real estate market '
+datePublished: '2016-02-16T16:01:39.284Z'
+dateModified: '2016-02-16T16:01:36.040Z'
 author: []
-title: ''
+title: WHERE SHOULD YOU BUY A HOME IN LOS ANGELES?
+sourcePath: _posts/2016-02-16-where-should-you-buy-a-home-in-los-angeles-posted-sep-19-2.md
+published: true
 authors: []
 publisher:
   name: sellinglarealestate.com
   domain: www.sellinglarealestate.com
   url: null
   favicon: null
-sourcePath: _posts/2016-02-16-where-should-you-buy-a-home-in-los-angeles-posted-sep-19-2.md
-published: true
+url: where-should-you-buy-a-home-in-los-angeles/index.html
 _context: 'http://schema.org'
 _type: Article
 
