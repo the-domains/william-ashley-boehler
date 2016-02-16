@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Learn more about Los Angeles' hardest working Realtor "
-datePublished: '2016-02-16T15:41:09.102Z'
-dateModified: '2016-02-16T15:40:52.543Z'
+datePublished: '2016-02-16T16:02:01.404Z'
+dateModified: '2016-02-16T16:01:59.363Z'
 title: About William Ashley Boehler
 author: []
+sourcePath: _posts/2016-02-16-about-william-ashley-boehler.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-16-about-william-ashley-boehler.md
-published: true
 url: about-william-ashley-boehler/index.html
 _type: Article
 
