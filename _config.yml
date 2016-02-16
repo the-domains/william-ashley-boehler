@@ -1,6 +1,6 @@
 name: William Ashley Boehler
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.25028
 typography_spectrum: 0.5858661897946149
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.49192995857447386
+  brandStrength: 0.5
   lightness: 0.16553832381032407
   saturation: 0.8183221900835633
-  rhythmicContrast: 0.09054223774001002
+  rhythmicContrast: 0
 purpose: []
