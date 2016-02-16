@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.latimes.com'
-  name: latimes.com
-  favicon: 'http://www.latimes.com/favicon.ico'
-  domain: www.latimes.com
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: en
+starred: false
 keywords:
   - park
   - leimert
@@ -18,17 +16,21 @@ keywords:
   - craftsman
   - westside
 description: 'Priced out of much of Los Angeles, young professionals are zeroing on several neighborhoods around USC and to the west, as the expanding Expo light rail line delivers new residents to the area.'
-inLanguage: en
+datePublished: '2016-02-16T16:41:10.388Z'
+dateModified: '2016-02-16T16:40:42.634Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.latimes.com/business/la-fi-property-report-20140501-story.html'
 title: Soaring home prices spur a resurgence near USC
-datePublished: '2016-02-16T16:39:32.321Z'
-dateModified: '2016-02-16T16:34:34.262Z'
 sourcePath: _posts/2016-02-16-soaring-home-prices-spur-a-resurgence-near-usc.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: latimes.com
+  domain: www.latimes.com
+  url: 'http://www.latimes.com'
+  favicon: 'http://www.latimes.com/favicon.ico'
+url: soaring-home-prices-spur-a-resurgence-near-usc/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
