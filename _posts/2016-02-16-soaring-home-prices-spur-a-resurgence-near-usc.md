@@ -1,41 +1,30 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://www.latimes.com/business/la-fi-property-report-20140501-story.html'
-inLanguage: en
+inLanguage: null
 starred: false
-keywords:
-  - park
-  - leimert
-  - jefferson
-  - neighborhood
-  - usc
-  - west
-  - resident
-  - angeles
-  - craftsman
-  - westside
-description: 'Priced out of much of Los Angeles, young professionals are zeroing on several neighborhoods around USC and to the west, as the expanding Expo light rail line delivers new residents to the area.'
-datePublished: '2016-02-16T17:01:49.599Z'
-dateModified: '2016-02-16T17:01:48.201Z'
-author: []
-related: []
-app_links: []
+keywords: []
+description: 'As home prices have soared in hip northeast L.A., high-end flippers have moved south. They are picking up cheap Craftsman bungalows in West Adams and Jefferson Park, selling to young buyers while using the Expo Line as a marketing tool.'
+datePublished: '2016-02-16T17:07:53.985Z'
+dateModified: '2016-02-16T17:07:38.088Z'
 title: Soaring home prices spur a resurgence near USC
-sourcePath: _posts/2016-02-16-soaring-home-prices-spur-a-resurgence-near-usc.md
-published: true
+author: []
 authors: []
 publisher:
-  name: latimes.com
-  domain: www.latimes.com
-  url: 'http://www.latimes.com'
-  favicon: 'http://www.latimes.com/favicon.ico'
-_context: 'http://schema.org'
-_type: MediaObject
+  name: null
+  domain: null
+  url: null
+  favicon: null
+sourcePath: _posts/2016-02-16-soaring-home-prices-spur-a-resurgence-near-usc.md
+published: true
+url: soaring-home-prices-spur-a-resurgence-near-usc/index.html
+_type: Article
 
 ---
-<article style=""><h1>Soaring home prices spur a resurgence near USC</h1><p>Priced out of much of Los Angeles, young professionals are zeroing on several neighborhoods around USC and to the west, as the expanding Expo light rail line delivers new residents to the area.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1700b70f3b18745a9657c4354171dbfa2609bc6e.jpg" /></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a131941a-3e62-4797-8a8e-98e45ac6040e.jpg)
+
+Article curated from LA Times April 30, 2014 Author: Andrew Khouri
 
 Priced out of much of Los Angeles, young professionals are zeroing on several neighborhoods around USC and to the west, as the expanding Expo light rail line delivers new residents to the area.
 
