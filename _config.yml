@@ -1,4 +1,5 @@
-layout_spectrum: 0
+favicon: null
+layout_spectrum: 0.5811567
 opengraph:
   image: null
   type: null
@@ -9,25 +10,25 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 purpose: []
 color:
-  saturation: 1
-  brandStrength: 0.5
-  lightness: 0.3568097
+  saturation: 0.6520522
+  brandStrength: 0.3647388
+  lightness: 0.3782649
   brandColors:
-    - '#000000'
-    - '#84befc'
-    - '#307edd'
-    - '#e29e4f'
-    - '#916f5d'
-  rhythmicContrast: 1
-typography_spectrum: 0.5988806
+    - '#1F1F20'
+    - '#9B9892'
+    - '#494C4C'
+    - '#D98742'
+    - '#E1F899'
+  rhythmicContrast: 0.6590485
+typography_spectrum: 1
 cta:
   bucket: null
   version: null
@@ -36,5 +37,4 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: William Ashley Boehler
